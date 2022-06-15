@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SQLightNews.iml" filepath="$PROJECT_DIR$/.idea/modules/SQLightNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SQLightNews.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
